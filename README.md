@@ -57,6 +57,11 @@ Introduces MLlib, the distributed ML library for Spark, ML pipeline and feature 
 ### Chapter 11 - Managing, Deploying and Scaling ML pipelines with Apache Spark
 
 All these using MLflow
+
+## Dev environment
+
+Google Colab
+
 ## Usefull links
 
 [Github from the book](https://github.com/databricks/LearningSparkV2)
